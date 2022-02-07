@@ -3,7 +3,8 @@
 
 # Sobre o projeto
 
-<p><a> snakegamejpcm2.netlify.app </a></p>
+https://snakegamejpcm2.netlify.app
+
 Projeto baseado no famoso jogo SnakeGame.
 
 # Tecnologias utilizadas
