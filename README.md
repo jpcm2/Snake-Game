@@ -1,10 +1,9 @@
-# Landing page
+# SnakeGame
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jpcm2/Snake-Game/blob/master/LICENSE) 
 
 # Sobre o projeto
 
-snakegamejpcm2.netlify.app
-
+<p><a> snakegamejpcm2.netlify.app </a></p>
 Projeto baseado no famoso jogo SnakeGame.
 
 # Tecnologias utilizadas
